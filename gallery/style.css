@@ -30,6 +30,8 @@ body {
 
 h1 {
     font-family: "grtsk-vf";
+    font-variation-settings: "slnt" 0, "wdth" 200, "wght" 700;
+    text-transform:uppercase;
     font-size: 42px;
 }
 
