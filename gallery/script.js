@@ -1,4 +1,4 @@
-const USER="Canopus";
+const USER="canopvs";
 const REPO="rpg-gallery";
 const ROOT="assets";
  
