@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url('https://use.typekit.net/jju2qhe.css');
 
 @font-face {
     font-family: "Astone Nouvea";
@@ -12,7 +12,7 @@
     --bg2: #1d1d29;
     --bg3: #3a3a55;
     --bg4: #616a75;
-    --tx1: #d2d1c1;
+    --tx1: #e3c8ff;
 }
 
 * {
@@ -24,12 +24,12 @@ body {
     padding: 40px;
     background: var(--bg1);
     color: var(--tx1);
-    font-family: Inter, sans-serif;
+    font-family: "la-mericana", sans-serif;
     height: 100vh;
 }
 
 h1 {
-    font-family: "Astone Nouvea";
+    font-family: "grtsk-vf";
     font-size: 42px;
 }
 
