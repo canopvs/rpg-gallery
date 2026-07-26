@@ -47,6 +47,7 @@ h1 {
     font-size: 12px;
     font-style: italic;
     letter-spacing: 1px;
+    text-transform: lowercase;
 }
 
 #back {
