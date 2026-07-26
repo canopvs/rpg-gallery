@@ -9,7 +9,7 @@
 
 :root {
     --bg1: #141419;
-    --bg2: #1d1d29;
+    --bg2: #443a55;
     --bg3: #3a3a55;
     --bg4: #616a75;
     --tx1: #e3c8ff;
@@ -22,7 +22,7 @@
 body {
     margin: 0;
     padding: 40px;
-    background: var(--bg1);
+    background: linear-gradient(45deg, var(--bg1), var(--bg2));
     color: var(--tx1);
     font-family: "la-mericana", sans-serif;
     height: 100vh;
