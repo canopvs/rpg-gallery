@@ -1,6 +1,6 @@
 const USER="Canopus";
 const REPO="rpg-gallery";
-const ROOT="avatars";
+const ROOT="assets";
  
 const gallery=document.getElementById("gallery");
 const back=document.getElementById("back");
